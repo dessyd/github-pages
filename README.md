@@ -1,3 +1,3 @@
-# Titre du README
+# Essais GitHub Pages
 
-Voici une brève description du repo
+La doc est en ligne [ici](https://dessyd.github.io/github-pages/)
