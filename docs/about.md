@@ -1,3 +1,3 @@
-# Titre de Aabout.md
+# About
 
-This is about the docs
+This is all about what it takes

@@ -1,3 +1,3 @@
-# Titre de Index.md
+# Index
 
 Voici le résultat de l'index déplacé
